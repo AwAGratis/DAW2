@@ -1,0 +1,15 @@
+body{
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:24px;
+}
+
+/* Estilos del contenedor */
+.container {
+    border: solid #525252 4px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px;
+}
