@@ -1,0 +1,76 @@
+/* Definim la font */
+
+@font-face {
+    font-family: JosefinSans-VariableFont_wght;
+    src: url('../assets/fonts/JosefinSans-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Estils generals */
+body {
+    font-family: JosefinSans-VariableFont_wght;
+    background-color: #f8f8f8;
+}
+
+/* Inputs en negreta */
+input {
+    font-weight: bolder;
+}
+
+/* Contenidor general */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Header del formulari, conté títol i descripció */
+.form__header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #293C66;
+    width: 25vw;
+    height: 5em;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 0px;
+    color: #fff;
+}
+
+/* Formulari */
+.form__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    width: 20vw;
+    margin-top: 4em;
+    padding: 2em;
+    background-color: #fff;
+    border: solid #293C66 6px;
+    border-radius: 40px;
+    box-shadow: 10px 5px 10px #757575;
+}
+
+/* Botó de submit per enviar el formulari (només visual, no funciona) */
+.submit__button {
+    font-family: JosefinSans-VariableFont_wght;
+    width: 9em;
+    height: 3em;
+    margin-top: 3em;
+    background-color: #293C66;
+    color: #fff;
+    border-radius: 6px;
+    box-shadow: 2px 2px 10px #757575;
+    transition: all 0.3s ease;
+}
+
+/* Animació hover del botó */
+.submit__button:hover {
+    transform: scale(1.1);
+}

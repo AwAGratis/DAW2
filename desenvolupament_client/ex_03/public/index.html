@@ -4,11 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercici 03</title>
+    <link rel="stylesheet" href="./styles/index.css">
 </head>
 <body>
-    <h1>Perro</h1>
-    <form> 
-        <input placeholder="Títol" />
-    </form>
+    <!-- Envoltem tot en un contenidor -->
+    <div class="container">
+        <!-- Envoltem tots els elements del formulari -->
+        <form class="form__container">
+            <!-- Títol i descripció del formulari -->
+            <div class="form__header">
+                <h1>Formulari</h1>
+                <h3>Omple aquest formulari per fer l'inscripció</h3>
+            </div>
+
+            <!-- Agrupem cada apartat del formulari per seccions -->
+            <section class="name__section">
+                <h2>Nom:*</h2>
+                <input placeholder="Escriu el teu nom" required />
+            </section>
+
+            <section class="lastname__section">
+                <h2>Cognoms:*</h2>
+                <input placeholder="Escriu els teus cognoms" required />
+            </section>
+
+            <section class="mail__section">
+                <h2>Adreça Mail:*</h2>
+                <input placeholder="mailexemple@mail.com" required />
+            </section>
+
+            <section class="number__section">
+                <h2>Telèfon:*</h2>
+                <!-- Posem type="number" per que no deixi fer servir el botó
+                    si aquest camp no és un número -->
+                <input type="number" placeholder="xxx xxx xxx" required />
+            </section>
+
+            <!-- Botó per enviar formulari (No funciona, només visual) -->
+            <button class="submit__button" type="submit">Inscriu-te</button>
+        </form>
+    </div>
 </body>
 </html>
