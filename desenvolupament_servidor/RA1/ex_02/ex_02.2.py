@@ -38,3 +38,7 @@ for act, dia in activitats: # Bucle per imprimir totes les activitats amb el seu
 
 # I dirà adeu a l'usuari amb el seu nom!
 print(f"Adeu, {usuari}!")
+
+
+# STRP = String  --> datetime
+# STRF = datetime format --> Another datetime format (ex: American to European datetime)
