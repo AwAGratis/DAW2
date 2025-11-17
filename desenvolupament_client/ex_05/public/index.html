@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercici 03</title>
+    <link rel="stylesheet" href="./styles/index.css">
+</head>
+<body>
+    <!-- Contenidor -->
+    <div class="container">
+    <!-- Formulari (validat per JS) -->
+    <form id="registrationForm" class="form__container" novalidate>
+            <div class="form__header">
+                <!-- Capçalera -->
+                <h1>Formulari de registre</h1>
+                <h3>Omple aquest formulari per fer l'inscripció</h3>
+            </div>
+
+            <div class="form-field">
+                <!-- Usuari -->
+                <label for="username">Nom d'usuari *</label>
+                <input id="username" name="username" type="text" placeholder="Usuari123" required />
+                <div class="error" id="username-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Nom -->
+                <label for="firstName">Nom *</label>
+                <input id="firstName" name="firstName" type="text" placeholder="Pere" required />
+                <div class="error" id="firstName-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- 1r cognom -->
+                <label for="lastName1">1r Cognom *</label>
+                <input id="lastName1" name="lastName1" type="text" placeholder="Garcia" required />
+                <div class="error" id="lastName1-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- 2n cognom (opcional) -->
+                <label for="lastName2">2n Cognom</label>
+                <input id="lastName2" name="lastName2" type="text" placeholder="Lopez" />
+                <div class="error" id="lastName2-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Email -->
+                <label for="email">Correu electrònic *</label>
+                <input id="email" name="email" type="email" placeholder="nom@domini.extensio" required />
+                <div class="error" id="email-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Telèfon -->
+                <label for="phone">Número de telèfon *</label>
+                <input id="phone" name="phone" type="text" placeholder="612 345 678" required />
+                <div class="error" id="phone-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Data naixement -->
+                <label for="dob">Data de naixement (dd/mm/aaaa) *</label>
+                <input id="dob" name="dob" type="text" placeholder="01/01/1990" required />
+                <div class="error" id="dob-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Targeta (no guardar en producció) -->
+                <label for="cc">Targeta de crèdit *</label>
+                <input id="cc" name="cc" type="text" placeholder="1234-5678-9012-3456" required />
+                <div class="error" id="cc-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Contrasenya -->
+                <label for="password">Contrasenya *</label>
+                <input id="password" name="password" type="password" placeholder="Contrasenya" required />
+                <div class="error" id="password-error"></div>
+            </div>
+
+            <div class="form-field">
+                <!-- Confirmar contrasenya -->
+                <label for="confirmPassword">Repeteix la contrasenya *</label>
+                <input id="confirmPassword" name="confirmPassword" type="password" placeholder="Repeteix la contrasenya" required />
+                <div class="error" id="confirmPassword-error"></div>
+            </div>
+
+            <!-- Enviar -->
+            <button class="submit__button" type="submit">Inscriu-te</button>
+
+            <!-- Missatge d'èxit -->
+            <div id="form-success" class="form-success" role="status" aria-live="polite"></div>
+        </form>
+    </div>
+
+    <script src="./scripts/index.js"></script>
+</body>
+</html>
