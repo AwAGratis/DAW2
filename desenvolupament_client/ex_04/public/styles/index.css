@@ -57,6 +57,13 @@ input {
     box-shadow: 10px 5px 10px #757575;
 }
 
+.confirm__section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 /* Botó de submit per enviar el formulari (només visual, no funciona) */
 .submit__button {
     font-family: JosefinSans-VariableFont_wght;
@@ -68,9 +75,25 @@ input {
     border-radius: 6px;
     box-shadow: 2px 2px 10px #757575;
     transition: all 0.3s ease;
+    border: none;
 }
 
 /* Animació hover del botó */
 .submit__button:hover {
     transform: scale(1.1);
+}
+
+/* Missatges d'error */
+.error {
+    display: block;
+    color: #b00020;
+    font-size: 0.85rem;
+    height: 1em;
+    margin-top: 0.25em;
+}
+
+/* Estat d'error per inputs */
+input.invalid {
+    outline: 2px solid #b00020;
+    box-shadow: 0 0 2px rgba(176,0,32,0.5);
 }

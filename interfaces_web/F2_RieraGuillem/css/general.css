@@ -1,0 +1,72 @@
+/* Configuramos el body con flexbox para que el footer siempre esté abajo */
+body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Estilos para el header y footer: centrados y con espaciado */
+header, footer {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* El footer se va al fondo de la página gracias a esto */
+footer {
+    margin-top: auto;
+}
+
+/* La navegación se muestra en línea horizontal con espacio entre elementos */
+nav ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* Los enlaces del menú sin decoración y más gruesos */
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* El contenido principal tiene un ancho máximo para que sea fácil de leer */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Las dos imágenes están lado a lado y ocupan el mismo espacio */
+.images-section {
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+/* Las imágenes se ajustan bien al tamaño sin deformarse */
+.images-section img {
+    flex: 1;
+    max-width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* La sección de FNAF tiene el mismo ancho que el contenido principal */
+.fnaf-section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.fnaf-section h2 {
+    margin-bottom: 15px;
+}
+
+/* El texto del párrafo tiene más espacio entre líneas para que sea más cómodo leer */
+.fnaf-section p {
+    line-height: 1.6;
+}
