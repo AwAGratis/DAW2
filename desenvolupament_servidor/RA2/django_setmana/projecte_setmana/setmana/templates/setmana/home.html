@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <title>{{ titol }}</title>
+</head>
+<body>
+  <h1>{{ titol }}</h1>
+  <p>
+    Aquesta aplicació mostra els dies de la setmana segons un valor numèric introduït a la URL.
+    Per exemple:
+  </p>
+  <ul>
+    <li><strong>/3/</strong> → mostrarà el dia 3.</li>
+    <li><strong>/0/</strong> o qualsevol nombre menor que 0 → tornarà al home.</li>
+    <li>Qualsevol altre string no numèric → missatge d'error (l'aplicació no caurà).</li>
+    <li>Si el número és major que 7 → "valor numèric no permès".</li>
+  </ul>
+  <p>Prova a escriure a la barra d'adreces: <code>http://127.0.0.1:8000/3/</code></p>
+</body>
+</html>

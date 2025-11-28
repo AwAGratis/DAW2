@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <title>{{ titol }}</title>
+</head>
+<body>
+  <h1>{{ titol }}</h1>
+
+  <!-- Mostrem la imatge del dia. Aquest <img> utilitza el sistema static de Django. -->
+  <!-- Recorda carregar static a la capçalera si uses el tag static: -->
+  {% load static %}
+  <img src="{% static ruta_imatge %}" alt="Imatge {{ nom_dia }}" style="max-width:400px;">
+  <p>Has introduït el número <strong>{{ numero }}</strong>, que correspon a <strong>{{ nom_dia }}</strong>.</p>
+
+  <p><a href="{% url 'setmana:home' %}">Tornar al inici</a></p>
+</body>
+</html>
