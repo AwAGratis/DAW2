@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ca">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Exercicis JavaScript — Cadenes i Nombres</title>
+	<style>
+		body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial; margin: 20px; line-height:1.5 }
+		section { margin-bottom: 24px; }
+		button { margin: 6px 0; }
+		.output { background:#f7f7f7; padding:10px; border-radius:6px; margin-top:6px; white-space:pre-wrap }
+	</style>
+</head>
+<body>
+	<h1>Exercicis de cadenes, nombres i temporització</h1>
+
+	<section id="strings">
+		<h2>Cadenes de text</h2>
+		<p>Donada la frase <code>"Aprendre JavaScript és útil"</code>:</p>
+		<button id="run-strings">Executa exercicis de cadenes</button>
+		<div id="strings-output" class="output"></div>
+
+		<h3>Interacció amb l'usuari</h3>
+		<button id="prompt-phrase">Demana una frase</button>
+		<div id="prompt-output" class="output"></div>
+
+		<button id="split-btn">Converteix "Programació Web" en array</button>
+		<div id="split-output" class="output"></div>
+
+		<button id="repeat-btn">Repeteix "Hola" 5 vegades</button>
+		<div id="repeat-output" class="output"></div>
+	</section>
+
+	<section id="numbers">
+		<h2>Nombres</h2>
+		<button id="div-btn">Demana dos números i divideix</button>
+		<div id="div-output" class="output"></div>
+
+		<button id="zero-btn">Mostra 10/0 i -10/0 (Explica)</button>
+		<div id="zero-output" class="output"></div>
+
+		<button id="format-btn">Format de 1234.56789</button>
+		<div id="format-output" class="output"></div>
+
+		<button id="fixed-btn">Demana un número i mostra 2 decimals</button>
+		<div id="fixed-output" class="output"></div>
+	</section>
+
+	<section id="dialogs">
+		<h2>Diàlegs i temporització</h2>
+		<p>(Al carregar la pàgina s'ha d'executar un <code>alert()</code> i aparèixer un missatge "Hola!" als 3 segons)</p>
+		<button id="confirm-btn">Confirmar si vols continuar</button>
+		<div id="confirm-output" class="output"></div>
+
+		<button id="personal-btn">Demana el nom</button>
+		<div id="personal-output" class="output"></div>
+
+		<p>Missatge de 3 segons: <span id="timeout-output"></span></p>
+		<p>Hora actual (actualitza cada segon): <span id="time-output"></span></p>
+	</section>
+
+	<script src="app.js"></script>
+</body>
+</html>
