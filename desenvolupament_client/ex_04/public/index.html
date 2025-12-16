@@ -9,40 +9,52 @@
 <body>
     <!-- Envoltem tot en un contenidor -->
     <div class="container">
-        <!-- Envoltem tots els elements del formulari -->
-        <form class="form__container">
+        <!-- Formulari actualitzat i accessible -->
+        <form id="registerForm" class="form__container" novalidate>
             <!-- Títol i descripció del formulari -->
             <div class="form__header">
-                <h1>Formulari</h1>
+                <h1>Formulari de registre</h1>
                 <h3>Omple aquest formulari per fer l'inscripció</h3>
             </div>
 
             <!-- Agrupem cada apartat del formulari per seccions -->
             <section class="name__section">
-                <h2>Nom:*</h2>
-                <input placeholder="Escriu el teu nom" required />
-            </section>
-
-            <section class="lastname__section">
-                <h2>Cognoms:*</h2>
-                <input placeholder="Escriu els teus cognoms" required />
+                <label for="username"><h2>Nom d'usuari:*</h2></label>
+                <input id="username" name="username" type="text" placeholder="Escriu el teu nom" required />
+                <small class="error" id="username-error" aria-live="polite"></small>
             </section>
 
             <section class="mail__section">
-                <h2>Adreça Mail:*</h2>
-                <input placeholder="mailexemple@mail.com" required />
+                <label for="email"><h2>Correu electrònic:*</h2></label>
+                <input id="email" name="email" type="email" placeholder="mailexemple@mail.com" required />
+                <small class="error" id="email-error" aria-live="polite"></small>
             </section>
 
-            <section class="number__section">
-                <h2>Telèfon:*</h2>
-                <!-- Posem type="number" per que no deixi fer servir el botó
-                    si aquest camp no és un número -->
-                <input type="number" placeholder="xxx xxx xxx" required />
+            <section class="password__section">
+                <label for="password"><h2>Contrasenya:*</h2></label>
+                <input id="password" name="password" type="password" placeholder="Contrasenya" required />
+                <small class="error" id="password-error" aria-live="polite"></small>
+            </section>
+
+            <section class="confirm__section">
+                <label for="confirmPassword"><h2>Confirmació contrasenya:*</h2></label>
+                <input id="confirmPassword" name="confirmPassword" type="password" placeholder="Confirma la contrasenya" required />
+                <small class="error" id="confirmPassword-error" aria-live="polite"></small>
+            </section>
+
+            <section class="terms__section">
+                <label>
+                    <input id="terms" name="terms" type="checkbox" required />
+                    Accepto els termes i condicions *
+                </label>
+                <small class="error" id="terms-error" aria-live="polite"></small>
             </section>
 
             <!-- Botó per enviar formulari (No funciona, només visual) -->
             <button class="submit__button" type="submit">Inscriu-te</button>
         </form>
     </div>
+
+    <script src="./scripts/script.js"></script>
 </body>
 </html>

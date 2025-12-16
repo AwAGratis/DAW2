@@ -1,0 +1,27 @@
+/* Definimos los colores principales que usamos en toda la página */
+:root {
+    --color-primary: #1F2D3D;      /* Color azul oscuro para header y footer */
+    --color-light: #D8E6F3;        /* Color azul claro para el fondo de secciones */
+    --color-white: #FFFFFF;        /* Blanco para el texto en el header y footer */
+}
+
+/* El header y footer tienen el color oscuro de fondo con texto blanco */
+header, footer {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+}
+
+/* Los enlaces del menú usan el color oscuro */
+nav ul li a {
+    color: var(--color-primary);
+}
+
+/* El contenido principal tiene un fondo claro para contrastar */
+main {
+    background-color: var(--color-light);
+}
+
+/* Las secciones también tienen el fondo claro */
+section {
+    background-color: var(--color-light);
+}
