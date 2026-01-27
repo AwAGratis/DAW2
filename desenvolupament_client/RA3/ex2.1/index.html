@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>La Meva Llista de Tasques</h1>
+        
+        <div class="input-container">
+            <input 
+                type="text" 
+                id="taskInput" 
+                class="task-input" 
+                placeholder="Afegeix una nova tasca..."
+                autocomplete="off"
+            >
+            <button id="addBtn" class="add-btn">Afegir</button>
+        </div>
+
+        <div class="stats">
+            <span>Total: <strong id="totalTasks">0</strong></span>
+            <span>Completades: <strong id="completedTasks">0</strong></span>
+        </div>
+
+        <ul id="taskList" class="task-list">
+            <!-- Les tasques es renderitzaran aquí -->
+        </ul>
+
+        <button id="clearBtn" class="clear-btn">Esborrar tot</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
