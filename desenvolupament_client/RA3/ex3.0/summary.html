@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Resumen — Preferencias</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <h1>Resumen de Preferencias</h1>
+    <section id="summary">Cargando...</section>
+
+    <nav class="nav">
+      <a href="index.html">Volver al Inicio</a>
+    </nav>
+  </main>
+
+  <script>
+    const THEME_KEY = 'prefs_theme';
+    const LIST_KEY = 'prefs_list';
+
+    function applyTheme(theme){
+      document.documentElement.setAttribute('data-theme', theme);
+    }
+
+    document.addEventListener('DOMContentLoaded', ()=>{
+      const savedTheme = localStorage.getItem(THEME_KEY) || 'light';
+      applyTheme(savedTheme);
+
+      const theme = localStorage.getItem(THEME_KEY) || '(no establecido)';
+      const list = JSON.parse(localStorage.getItem(LIST_KEY) || '[]');
+      const el = document.getElementById('summary');
+      el.innerHTML = '';
+
+      const p1 = document.createElement('p');
+      p1.textContent = 'Tema seleccionado: ' + theme;
+      el.appendChild(p1);
+
+      const p2 = document.createElement('p');
+      p2.textContent = 'Cantidad total de elementos: ' + list.length;
+      el.appendChild(p2);
+
+      if(list.length){
+        const h = document.createElement('h3');
+        h.textContent = 'Elementos:';
+        el.appendChild(h);
+        const ul = document.createElement('ul');
+        list.forEach(it => {
+          const li = document.createElement('li');
+          li.textContent = it;
+          ul.appendChild(li);
+        });
+        el.appendChild(ul);
+      }
+    });
+  </script>
+</body>
+</html>

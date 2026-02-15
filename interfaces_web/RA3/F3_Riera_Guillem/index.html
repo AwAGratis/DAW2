@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Contenido Interactivo con Animación</title>
+
+<style>
+/* Caja que estará animada */
+#cajaAnimada {
+  width: 200px;
+  height: 100px;
+  background-color: #4CAF50;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+  transition: transform 0.5s ease, background-color 0.5s ease;
+}
+
+/* Animación de la caja */
+.animada {
+  transform: translateX(150px) rotate(5deg);
+  background-color: #2196F3;
+}
+</style>
+
+<script>
+function respuesta(opcion) {
+  const resultado = document.getElementById("resultado");
+  const caja = document.getElementById("cajaAnimada");
+
+  if (opcion === 1) {
+    resultado.innerText = "¡Correcto! JavaScript se ejecuta en el navegador.";
+    caja.classList.add("animada"); // activa animación
+  } else {
+    resultado.innerText = "Incorrecto. Prueba otra vez.";
+    caja.classList.remove("animada");
+  }
+}
+</script>
+</head>
+
+<body>
+
+<h1>Ejemplo de Contenido Interactivo</h1>
+
+<h2>Pregunta interactiva</h2>
+<p>¿Qué lenguaje se ejecuta directamente en el navegador web?</p>
+
+<button onclick="respuesta(0)">Python</button>
+<button onclick="respuesta(1)">JavaScript</button>
+<button onclick="respuesta(0)">C++</button>
+
+<p id="resultado"></p>
+
+<!-- Elemento animado -->
+<div id="cajaAnimada">
+  Caja animada
+</div>
+
+<hr>
+
+<h2>Ubicación: Khan Döner – Piera</h2>
+
+<!-- Iframe con Google Maps -->
+<iframe
+  src="https://www.google.com/maps?q=Khan%20Doner%20Piera&output=embed"
+  width="100%"
+  height="350"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+</body>
+</html>

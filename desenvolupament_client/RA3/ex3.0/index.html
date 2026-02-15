@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Preferencias — App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <h1>Gestor de Preferencias</h1>
+
+    <section class="control">
+      <label for="themeSelect">Tema:</label>
+      <select id="themeSelect">
+        <option value="light">Claro</option>
+        <option value="dark">Oscuro</option>
+      </select>
+    </section>
+
+    <section class="add-item">
+      <input id="newItem" type="text" placeholder="Nuevo elemento">
+      <button id="addBtn">Agregar</button>
+    </section>
+
+    <section>
+      <h2>Lista de elementos</h2>
+      <ul id="itemsList"></ul>
+    </section>
+
+    <nav class="nav">
+      <a href="settings.html">Ajustes</a>
+      <a href="summary.html">Resumen</a>
+    </nav>
+  </main>
+
+  <script src="scripts.js"></script>
+</body>
+</html>

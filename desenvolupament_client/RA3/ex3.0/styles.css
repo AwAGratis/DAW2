@@ -1,0 +1,22 @@
+:root{
+  --bg: #ffffff;
+  --fg: #111111;
+  --accent: #2b7cff;
+}
+[data-theme="dark"]{
+  --bg: #121212;
+  --fg: #e6e6e6;
+  --accent: #6ea8ff;
+}
+
+*{box-sizing:border-box}
+body{font-family:Segoe UI, Roboto, Arial, sans-serif;margin:0;background:var(--bg);color:var(--fg);padding:24px}
+main{max-width:720px;margin:0 auto}
+h1{margin-top:0}
+.control,label{display:flex;align-items:center;gap:8px;margin-bottom:12px}
+.add-item{display:flex;gap:8px;margin-bottom:12px}
+input[type="text"]{flex:1;padding:8px;border:1px solid #ccc;border-radius:4px}
+button{background:var(--accent);color:white;border:none;padding:8px 12px;border-radius:4px;cursor:pointer}
+ul{padding-left:20px}
+.nav{margin-top:18px;display:flex;gap:12px}
+a{color:var(--accent);text-decoration:none}

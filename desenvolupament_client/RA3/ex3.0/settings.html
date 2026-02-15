@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Ajustes — Preferencias</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <h1>Ajustes</h1>
+    <section id="currentConfig">
+      <h2>Configuración actual</h2>
+      <div id="configContent">Cargando...</div>
+    </section>
+
+    <section class="actions">
+      <button id="clearBtn">Eliminar todas las preferencias</button>
+    </section>
+
+    <nav class="nav">
+      <a href="index.html">Inicio</a>
+      <a href="summary.html">Resumen</a>
+    </nav>
+  </main>
+
+  <script>
+    const THEME_KEY = 'prefs_theme';
+    const LIST_KEY = 'prefs_list';
+
+    function applyTheme(theme){
+      document.documentElement.setAttribute('data-theme', theme);
+    }
+
+    function renderConfig(){
+      const theme = localStorage.getItem(THEME_KEY) || '(no establecido)';
+      const list = JSON.parse(localStorage.getItem(LIST_KEY) || '[]');
+      const el = document.getElementById('configContent');
+      el.innerHTML = '';
+
+      const p1 = document.createElement('p');
+      p1.textContent = 'Tema: ' + theme;
+      el.appendChild(p1);
+
+      const p2 = document.createElement('p');
+      p2.textContent = 'Número de elementos: ' + list.length;
+      el.appendChild(p2);
+
+      if(list.length){
+        const ul = document.createElement('ul');
+        list.forEach(it => {
+          const li = document.createElement('li');
+          li.textContent = it;
+          ul.appendChild(li);
+        });
+        el.appendChild(ul);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', ()=>{
+      const savedTheme = localStorage.getItem(THEME_KEY) || 'light';
+      applyTheme(savedTheme);
+      renderConfig();
+      document.getElementById('clearBtn').addEventListener('click', ()=>{
+        localStorage.removeItem(THEME_KEY);
+        localStorage.removeItem(LIST_KEY);
+        // redirigir inmediatamente a la página principal
+        location.href = 'index.html';
+      });
+    });
+  </script>
+</body>
+</html>
