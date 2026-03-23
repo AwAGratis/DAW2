@@ -1,0 +1,1268 @@
+id,name,status,species,gender,episode
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/1
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/2
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/4
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/5
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/6
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/7
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/9
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/11
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/14
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/15
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/17
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/18
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/20
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/21
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/22
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/24
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/25
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/26
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/27
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/29
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/32
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/34
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/35
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/36
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/38
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/40
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/41
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/42
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/43
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/44
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/46
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/48
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/49
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/50
+1,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/51
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/1
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/2
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/4
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/5
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/6
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/7
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/9
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/11
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/14
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/15
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/17
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/18
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/20
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/21
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/22
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/24
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/25
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/26
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/27
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/29
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/32
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/34
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/35
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/36
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/38
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/40
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/41
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/42
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/43
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/44
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/46
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/48
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/49
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/50
+2,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/51
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/6
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/7
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/9
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/10
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/11
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/12
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/14
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/15
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/16
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/17
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/18
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/19
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/20
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/21
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/22
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/23
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/24
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/25
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/26
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/29
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/30
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/31
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/32
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/33
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/34
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/35
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/36
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/38
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/39
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/40
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/41
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/42
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/43
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/44
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/45
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/46
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/47
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/48
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/49
+3,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/51
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/6
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/7
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/9
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/10
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/11
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/12
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/14
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/15
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/16
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/18
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/19
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/20
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/21
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/22
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/23
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/24
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/25
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/26
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/28
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/29
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/30
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/31
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/32
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/33
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/34
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/35
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/36
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/38
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/39
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/40
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/41
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/42
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/43
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/44
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/45
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/46
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/47
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/48
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/49
+4,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/51
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/6
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/7
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/9
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/11
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/14
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/15
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/18
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/20
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/21
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/22
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/26
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/29
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/32
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/35
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/36
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/38
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/40
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/41
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/42
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/43
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/44
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/46
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/48
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/49
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/50
+5,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/51
+6,Abadango Cluster Princess,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/27
+7,Abradolf Lincler,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+7,Abradolf Lincler,unknown,Human,Male,https://rickandmortyapi.com/api/episode/11
+8,Adjudicator Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+9,Agency Director,Dead,Human,Male,https://rickandmortyapi.com/api/episode/24
+10,Alan Rails,Dead,Human,Male,https://rickandmortyapi.com/api/episode/25
+11,Albert Einstein,Dead,Human,Male,https://rickandmortyapi.com/api/episode/12
+12,Alexander,Dead,Human,Male,https://rickandmortyapi.com/api/episode/3
+13,Alien Googah,unknown,Alien,unknown,https://rickandmortyapi.com/api/episode/31
+14,Alien Morty,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/10
+15,Alien Rick,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/10
+16,Amish Cyborg,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+17,Annie,Alive,Human,Female,https://rickandmortyapi.com/api/episode/3
+18,Antenna Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+18,Antenna Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+19,Antenna Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+20,Ants in my Eyes Johnson,unknown,Human,Male,https://rickandmortyapi.com/api/episode/8
+21,Aqua Morty,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+21,Aqua Morty,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/22
+22,Aqua Rick,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+22,Aqua Rick,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/22
+22,Aqua Rick,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/28
+23,Arcade Alien,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/13
+23,Arcade Alien,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/19
+23,Arcade Alien,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/21
+23,Arcade Alien,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/25
+23,Arcade Alien,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/26
+24,Armagheadon,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/16
+25,Armothy,Dead,unknown,Male,https://rickandmortyapi.com/api/episode/23
+26,Arthricia,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/20
+27,Artist Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+27,Artist Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+28,Attila Starwar,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+28,Attila Starwar,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+28,Attila Starwar,Alive,Human,Male,https://rickandmortyapi.com/api/episode/17
+29,Baby Legs,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+30,Baby Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/31
+31,Baby Wizard,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+32,Bearded Lady,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/15
+33,Beebo,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/29
+34,Benjamin,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/8
+34,Benjamin,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/13
+34,Benjamin,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/17
+35,Bepisian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/1
+35,Bepisian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/11
+35,Bepisian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+35,Bepisian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/25
+36,Beta-Seven,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/14
+37,Beth Sanchez,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/1
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/2
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/3
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/4
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/5
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/6
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/22
+38,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/51
+39,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/10
+40,Beth's Mytholog,Dead,Mythological Creature,Female,https://rickandmortyapi.com/api/episode/18
+41,Big Boobed Waitress,Alive,Mythological Creature,Female,https://rickandmortyapi.com/api/episode/5
+42,Big Head Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+43,Big Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+44,Body Guard Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+45,Bill,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+46,Bill,unknown,Animal,Male,https://rickandmortyapi.com/api/episode/2
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/11
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/16
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/21
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/22
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/26
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/49
+47,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/51
+48,Black Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/22
+48,Black Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+49,Blamph,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+50,Blim Blam,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/14
+51,Blue Diplomat,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+52,Blue Footprint Guy,Dead,Human,Male,https://rickandmortyapi.com/api/episode/23
+53,Blue Shirt Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+54,Bobby Moynihan,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+55,Boobloosian,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/18
+55,Boobloosian,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+56,Bootleg Portal Chemist Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+57,Borpocian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/22
+58,Brad,Alive,Human,Male,https://rickandmortyapi.com/api/episode/6
+58,Brad,Alive,Human,Male,https://rickandmortyapi.com/api/episode/11
+58,Brad,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+58,Brad,Alive,Human,Male,https://rickandmortyapi.com/api/episode/46
+59,Brad Anderson,Dead,Human,Male,https://rickandmortyapi.com/api/episode/7
+60,Calypso,Dead,Human,Female,https://rickandmortyapi.com/api/episode/25
+61,Campaign Manager Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+62,Canklanker Thom,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/1
+63,Centaur,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/2
+64,Chris,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/12
+65,Chris,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/17
+66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+67,Collector,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/29
+68,Colossus,Dead,Human,Male,https://rickandmortyapi.com/api/episode/23
+69,Commander Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+70,Concerto,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/24
+71,Conroy,Dead,Robot,unknown,https://rickandmortyapi.com/api/episode/22
+72,Cool Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+73,Cop Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+74,Cop Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+75,Courier Flap,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+76,Cousin Nicky,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+77,Cowboy Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+78,Cowboy Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+78,Cowboy Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+79,Crab Spider,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/10
+80,Creepy Little Girl,Alive,Human,Female,https://rickandmortyapi.com/api/episode/2
+81,Crocubot,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/25
+82,Cronenberg Rick,unknown,Cronenberg,Male,https://rickandmortyapi.com/api/episode/6
+82,Cronenberg Rick,unknown,Cronenberg,Male,https://rickandmortyapi.com/api/episode/10
+83,Cronenberg Morty,unknown,Cronenberg,Male,https://rickandmortyapi.com/api/episode/6
+83,Cronenberg Morty,unknown,Cronenberg,Male,https://rickandmortyapi.com/api/episode/10
+84,Cult Leader Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+85,Cyclops Morty,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+85,Cyclops Morty,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/28
+86,Cyclops Rick,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+86,Cyclops Rick,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/22
+86,Cyclops Rick,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/28
+87,Cynthia,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/4
+88,Cynthia,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+88,Cynthia,Alive,Human,Female,https://rickandmortyapi.com/api/episode/9
+88,Cynthia,Alive,Human,Female,https://rickandmortyapi.com/api/episode/11
+88,Cynthia,Alive,Human,Female,https://rickandmortyapi.com/api/episode/25
+89,Dale,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/5
+90,Daron Jefferson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/14
+91,David Letterman,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+92,Davin,Dead,Human,Male,https://rickandmortyapi.com/api/episode/1
+92,Davin,Dead,Human,Male,https://rickandmortyapi.com/api/episode/6
+93,Diablo Verde,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/25
+94,Diane Sanchez,Dead,Human,Female,https://rickandmortyapi.com/api/episode/22
+94,Diane Sanchez,Dead,Human,Female,https://rickandmortyapi.com/api/episode/51
+95,Dipper and Mabel Mortys,unknown,Human,unknown,https://rickandmortyapi.com/api/episode/22
+96,Tuberculosis,Dead,Disease,unknown,https://rickandmortyapi.com/api/episode/3
+97,Gonorrhea,Dead,Disease,unknown,https://rickandmortyapi.com/api/episode/3
+98,Hepatitis A,Dead,Disease,unknown,https://rickandmortyapi.com/api/episode/3
+99,Hepatitis C,Dead,Disease,unknown,https://rickandmortyapi.com/api/episode/3
+100,Bubonic Plague,Dead,Disease,unknown,https://rickandmortyapi.com/api/episode/3
+101,E. Coli,Dead,Disease,unknown,https://rickandmortyapi.com/api/episode/3
+102,Donna Gueterman,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/21
+103,Doofus Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+103,Doofus Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+104,Doom-Nomitron,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/25
+105,Dr. Glip-Glop,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/19
+106,Dr. Schmidt,unknown,Human,Male,https://rickandmortyapi.com/api/episode/13
+107,Dr. Wong,Alive,Human,Female,https://rickandmortyapi.com/api/episode/24
+107,Dr. Wong,Alive,Human,Female,https://rickandmortyapi.com/api/episode/41
+108,Dr. Xenon Bloom,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/3
+109,Duck With Muscles,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+110,Eli,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+111,Eli's Girlfriend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/23
+112,Eric McMan,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+113,Eric Stoltz Mask Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+114,Ethan,unknown,Human,Male,https://rickandmortyapi.com/api/episode/3
+115,Ethan,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+115,Ethan,Alive,Human,Male,https://rickandmortyapi.com/api/episode/26
+116,Evil Beth Clone,Dead,Human,Female,https://rickandmortyapi.com/api/episode/5
+117,Evil Jerry Clone,Dead,Human,Male,https://rickandmortyapi.com/api/episode/5
+118,Evil Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+118,Evil Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+118,Evil Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/51
+119,Evil Rick,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+120,Evil Summer Clone,Dead,Human,Female,https://rickandmortyapi.com/api/episode/5
+121,Eyehole Man,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+122,Fart,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/13
+123,Fat Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+124,Father Bob,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+124,Father Bob,Alive,Human,Male,https://rickandmortyapi.com/api/episode/27
+125,Flansian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/18
+125,Flansian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+125,Flansian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/25
+126,Fleeb,unknown,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+127,Frank Palicky,Dead,Human,Male,https://rickandmortyapi.com/api/episode/1
+128,Frankenstein's Monster,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+129,Fulgora,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+129,Fulgora,Alive,Human,Female,https://rickandmortyapi.com/api/episode/13
+129,Fulgora,Alive,Human,Female,https://rickandmortyapi.com/api/episode/17
+130,Galactic Federation President,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/21
+131,Gar Gloonch,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/13
+131,Gar Gloonch,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/18
+131,Gar Gloonch,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/21
+132,Gar's Mytholog,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+133,Garblovian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/13
+133,Garblovian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+133,Garblovian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/21
+134,Garmanarnar,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/8
+135,Garment District Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+136,Gazorpazorpfield,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/8
+136,Gazorpazorpfield,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/13
+137,Gene,Alive,Human,Male,https://rickandmortyapi.com/api/episode/26
+137,Gene,Alive,Human,Male,https://rickandmortyapi.com/api/episode/49
+138,General Nathan,Dead,Human,Male,https://rickandmortyapi.com/api/episode/16
+139,General Store Owner,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/20
+140,Genital Washer,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+141,Ghost in a Jar,Dead,Alien,Genderless,https://rickandmortyapi.com/api/episode/15
+142,Gibble Snake,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/26
+143,Glasses Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+144,Glenn,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/1
+145,Glenn,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+146,Glexo Slim Slom,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/18
+147,Gobo,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/29
+148,Goddess Beth,unknown,Mythological Creature,Female,https://rickandmortyapi.com/api/episode/18
+149,Gordon Lunas,Dead,Human,Male,https://rickandmortyapi.com/api/episode/29
+150,Cornvelious Daniel,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/22
+151,Gwendolyn,unknown,Robot,Female,https://rickandmortyapi.com/api/episode/7
+152,Hammerhead Morty,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+152,Hammerhead Morty,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/22
+153,Hamster In Butt,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/8
+153,Hamster In Butt,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/19
+154,Hamurai,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+155,Harold,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/6
+156,Hemorrhage,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Genderless,https://rickandmortyapi.com/api/episode/8
+158,Hookah Alien,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/1
+159,Hunter,Dead,Human,Male,https://rickandmortyapi.com/api/episode/17
+160,Hunter's Father,Alive,Human,Male,https://rickandmortyapi.com/api/episode/17
+161,Hydrogen-F,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/16
+162,Ice-T,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/16
+163,Ideal Jerry,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+164,Insurance Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+165,Investigator Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+166,Invisi-trooper,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+167,Izzy,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/24
+168,Jackie,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/7
+169,Jacob,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+169,Jacob,Alive,Human,Male,https://rickandmortyapi.com/api/episode/15
+170,Jacqueline,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+171,Jaguar,Alive,Human,Male,https://rickandmortyapi.com/api/episode/24
+172,Jamey,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+173,Jan-Michael Vincent,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+174,Jerry 5-126,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/1
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/2
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/4
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/5
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/6
+175,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/22
+176,Celebrity Jerry,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+177,Jerry Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+178,Jerry's Mytholog,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+179,Jessica,Alive,Cronenberg,Female,https://rickandmortyapi.com/api/episode/1
+179,Jessica,Alive,Cronenberg,Female,https://rickandmortyapi.com/api/episode/4
+179,Jessica,Alive,Cronenberg,Female,https://rickandmortyapi.com/api/episode/6
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/11
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/13
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/17
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/18
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/26
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/28
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/29
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/30
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/32
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/39
+180,Jessica,Alive,Human,Female,https://rickandmortyapi.com/api/episode/42
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/1
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/4
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/6
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/11
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/17
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/18
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/25
+181,Jessica's Friend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+182,Jim,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+183,Johnny Depp,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+184,Jon,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/8
+185,Joseph Eli Lipkip,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+186,Joyce Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/3
+187,Juggling Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/28
+188,Karen Entity,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/14
+189,Katarina,Dead,Human,Female,https://rickandmortyapi.com/api/episode/24
+190,Keara,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/30
+191,Kevin,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/4
+192,King Flippy Nips,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/9
+193,King Jellybean,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/5
+194,Kozbian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+195,Kristen Stewart,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+196,Krombopulos Michael,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/13
+197,Kyle,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/17
+198,Lady Katana,Dead,Humanoid,Female,https://rickandmortyapi.com/api/episode/25
+199,Larva Alien,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/16
+199,Larva Alien,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+199,Larva Alien,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+200,Lawyer Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+201,Leonard Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+202,Lighthouse Keeper,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/20
+203,Lil B,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/21
+203,Lil B,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/48
+204,Lisa,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/26
+205,Little Dipper,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/19
+206,Lizard Morty,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/28
+207,Loggins,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/8
+207,Loggins,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/13
+207,Loggins,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/17
+208,Logic,Alive,Human,Male,https://rickandmortyapi.com/api/episode/25
+209,Long Sleeved Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+210,Lucy,Dead,Human,Female,https://rickandmortyapi.com/api/episode/11
+211,Ma-Sha,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/7
+212,Magma-Q,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/16
+213,Magnesium-J,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/16
+214,Man Painted Silver Who Makes Robot Noises,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+215,Maximums Rickimus,Dead,Human,Male,https://rickandmortyapi.com/api/episode/10
+215,Maximums Rickimus,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+215,Maximums Rickimus,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+216,MC Haps,Alive,Human,Male,https://rickandmortyapi.com/api/episode/6
+216,MC Haps,Alive,Human,Male,https://rickandmortyapi.com/api/episode/11
+216,MC Haps,Alive,Human,Male,https://rickandmortyapi.com/api/episode/25
+217,Mechanical Morty,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/23
+218,Mechanical Rick,unknown,Robot,Male,https://rickandmortyapi.com/api/episode/23
+219,Mechanical Summer,unknown,Robot,Female,https://rickandmortyapi.com/api/episode/23
+220,Mega Fruit Farmer Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+221,Melissa,Alive,Mythological Creature,Female,https://rickandmortyapi.com/api/episode/2
+222,Michael Denny and the Denny Singers,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+223,Michael Jenkins,Dead,Human,Male,https://rickandmortyapi.com/api/episode/19
+224,Michael McLick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+225,Michael Thompson,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/19
+226,Million Ants,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/25
+227,Mitch,Alive,Human,Male,https://rickandmortyapi.com/api/episode/27
+228,Mohawk Guy,Dead,Human,Male,https://rickandmortyapi.com/api/episode/23
+229,Morty Mart Manager Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+230,Morty Jr.,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/7
+231,Morty Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+232,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+233,Morty K-22,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+234,Morty Smith,Dead,Human,Male,https://rickandmortyapi.com/api/episode/6
+235,Mortytown Loco,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+236,Mr. Beauregard,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+237,Mr. Benson,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+238,Mr. Booby Buyer,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/5
+239,Mr. Goldenfold,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/1
+239,Mr. Goldenfold,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/2
+239,Mr. Goldenfold,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/4
+239,Mr. Goldenfold,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/6
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/9
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/17
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/18
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/21
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/22
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/24
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/27
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+240,Mr. Goldenfold,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+241,Mr. Marklovitz,Alive,Human,Male,https://rickandmortyapi.com/api/episode/4
+241,Mr. Marklovitz,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+242,Mr. Meeseeks,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/5
+242,Mr. Meeseeks,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+242,Mr. Meeseeks,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/13
+242,Mr. Meeseeks,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/29
+242,Mr. Meeseeks,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/32
+243,Mr. Needful,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/9
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/15
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/21
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/29
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/30
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/31
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/34
+244,Mr. Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/51
+245,Mrs. Lipkip,Alive,Human,Female,https://rickandmortyapi.com/api/episode/30
+246,Mrs. Pancakes,Alive,Human,Female,https://rickandmortyapi.com/api/episode/2
+246,Mrs. Pancakes,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+247,Amy Poopybutthole,Alive,Poopybutthole,Female,https://rickandmortyapi.com/api/episode/31
+248,Mrs. Refrigerator,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/15
+249,Mrs. Sanchez,unknown,Human,Female,https://rickandmortyapi.com/api/episode/1
+249,Mrs. Sanchez,unknown,Human,Female,https://rickandmortyapi.com/api/episode/6
+249,Mrs. Sanchez,unknown,Human,Female,https://rickandmortyapi.com/api/episode/14
+249,Mrs. Sanchez,unknown,Human,Female,https://rickandmortyapi.com/api/episode/30
+250,Mrs. Sullivan,Dead,Human,Female,https://rickandmortyapi.com/api/episode/8
+251,Nancy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/6
+251,Nancy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/9
+251,Nancy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/11
+251,Nancy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/25
+251,Nancy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/29
+251,Nancy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/36
+252,Noob-Noob,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/25
+253,Numbericon,unknown,Alien,unknown,https://rickandmortyapi.com/api/episode/16
+254,Octopus Man,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/19
+255,Orthodox Jew,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+256,Pat Gueterman,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/21
+257,Paul Fleishman,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+258,Pawnshop Clerk,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/7
+259,Pencilvester,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+260,Phillip Jacobs,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+261,Photography Cyborg,unknown,Robot,Male,https://rickandmortyapi.com/api/episode/21
+262,Photography Raptor,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/15
+263,Pibbles Bodyguard,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+264,Pichael Thompson,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/19
+265,Pickle Rick,Alive,unknown,Male,https://rickandmortyapi.com/api/episode/24
+266,Piece of Toast,Alive,unknown,Genderless,https://rickandmortyapi.com/api/episode/8
+266,Piece of Toast,Alive,unknown,Genderless,https://rickandmortyapi.com/api/episode/17
+267,Plumber Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+268,Poncho,Dead,Human,Male,https://rickandmortyapi.com/api/episode/3
+269,Presidentress of The Mega Gargantuans,Alive,Humanoid,Female,https://rickandmortyapi.com/api/episode/31
+270,Prince Nebulon,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/4
+271,Principal Vagina,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/1
+271,Principal Vagina,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/5
+271,Principal Vagina,Alive,Cronenberg,Male,https://rickandmortyapi.com/api/episode/6
+272,Principal Vagina,Alive,Human,Male,https://rickandmortyapi.com/api/episode/9
+272,Principal Vagina,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+272,Principal Vagina,Alive,Human,Male,https://rickandmortyapi.com/api/episode/18
+272,Principal Vagina,Alive,Human,Male,https://rickandmortyapi.com/api/episode/24
+272,Principal Vagina,Alive,Human,Male,https://rickandmortyapi.com/api/episode/27
+272,Principal Vagina,Alive,Human,Male,https://rickandmortyapi.com/api/episode/29
+273,Purge Planet Ruler,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/20
+274,Quantum Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+274,Quantum Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+274,Quantum Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+275,Randy Dicknose,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+276,Rat Boss,Dead,Animal,unknown,https://rickandmortyapi.com/api/episode/24
+277,Real Fake Doors Salesman,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+278,Regional Manager Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+279,Regular Legs,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+280,Reverse Giraffe,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+281,Reverse Rick Outrage,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+282,Revolio Clockberg Jr.,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/11
+282,Revolio Clockberg Jr.,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/13
+282,Revolio Clockberg Jr.,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/25
+283,Rick D. Sanchez III,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+284,Rick Guilt Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/28
+285,Rick Prime,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+285,Rick Prime,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+286,Rick D-99,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+287,Rick D716,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+288,Rick D716-B,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+289,Rick D716-C,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+290,Rick Sanchez,Dead,Human,Male,https://rickandmortyapi.com/api/episode/10
+291,Rick J-22,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+292,Rick K-22,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+293,Rick Sanchez,Dead,Human,Male,https://rickandmortyapi.com/api/episode/6
+294,Ricktiminus Sancheziminius,Dead,Human,Male,https://rickandmortyapi.com/api/episode/10
+294,Ricktiminus Sancheziminius,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+294,Ricktiminus Sancheziminius,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+295,Riq IV,Dead,Human,Male,https://rickandmortyapi.com/api/episode/10
+295,Riq IV,Dead,Human,Male,https://rickandmortyapi.com/api/episode/11
+295,Riq IV,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+296,Risotto Groupon,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/26
+297,Risotto's Tentacled Henchman,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/26
+298,Robot Morty,unknown,Robot,Male,https://rickandmortyapi.com/api/episode/10
+299,Robot Rick,unknown,Robot,Male,https://rickandmortyapi.com/api/episode/10
+300,Roger,Dead,Human,Male,https://rickandmortyapi.com/api/episode/3
+301,Ron Benson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/14
+302,Ruben,Dead,Human,Male,https://rickandmortyapi.com/api/episode/3
+303,Samantha,Alive,Human,Female,https://rickandmortyapi.com/api/episode/5
+304,Scary Brandon,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/2
+305,Scary Glenn,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/2
+306,Scary Terry,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/2
+307,Scroopy Noopers,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/9
+308,Scropon,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/11
+308,Scropon,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/21
+309,Scrotian,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/13
+309,Scrotian,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/16
+309,Scrotian,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/21
+309,Scrotian,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/25
+310,Self-Congratulatory Jerry,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+311,Shimshamian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/13
+311,Shimshamian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/21
+311,Shimshamian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/25
+312,Shlaammi,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+313,Shleemypants,Alive,unknown,Male,https://rickandmortyapi.com/api/episode/12
+313,Shleemypants,Alive,unknown,Male,https://rickandmortyapi.com/api/episode/36
+314,Shmlamantha Shmlicelli,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+315,Shmlangela Shmlobinson-Shmlower,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+316,Shmlona Shmlobinson,Alive,Human,Female,https://rickandmortyapi.com/api/episode/8
+317,Shmlonathan Shmlower,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+318,Shmlony Shmlicelli,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+319,Shmooglite Runner,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/26
+320,Shnoopy Bloopers,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/26
+321,Shrimply Pibbles,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+322,Simple Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+323,Slaveowner,Dead,Human,Male,https://rickandmortyapi.com/api/episode/23
+324,Sleepy Gary,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+325,Slick Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+326,Slippery Stair,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/5
+326,Slippery Stair,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/11
+327,Slow Mobius,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/11
+328,Slow Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/2
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/7
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/10
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/15
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/16
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/24
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/29
+329,Snuffles (Snowball),Alive,Animal,Male,https://rickandmortyapi.com/api/episode/30
+330,Solicitor Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+330,Solicitor Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+331,Squanchy,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/11
+331,Squanchy,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/16
+331,Squanchy,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/21
+332,Stacy,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+333,Stair Goblin,Alive,Mythological Creature,Genderless,https://rickandmortyapi.com/api/episode/5
+333,Stair Goblin,Alive,Mythological Creature,Genderless,https://rickandmortyapi.com/api/episode/11
+333,Stair Goblin,Alive,Mythological Creature,Genderless,https://rickandmortyapi.com/api/episode/25
+334,Stealy,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/19
+335,Steve,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+336,Steven Phillips,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/14
+337,Stu,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/4
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/1
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/2
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/3
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/4
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/5
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/6
+338,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/22
+339,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/10
+340,Supernova,Alive,Human,Female,https://rickandmortyapi.com/api/episode/25
+341,Taddy Mason,Alive,Human,Male,https://rickandmortyapi.com/api/episode/20
+342,Taint Washer,Alive,Human,Male,https://rickandmortyapi.com/api/episode/23
+343,Tammy Guetermann,Alive,Cronenberg,Female,https://rickandmortyapi.com/api/episode/5
+343,Tammy Guetermann,Alive,Cronenberg,Female,https://rickandmortyapi.com/api/episode/6
+344,Tammy Guetermann,Dead,Human,Female,https://rickandmortyapi.com/api/episode/11
+344,Tammy Guetermann,Dead,Human,Female,https://rickandmortyapi.com/api/episode/16
+344,Tammy Guetermann,Dead,Human,Female,https://rickandmortyapi.com/api/episode/21
+344,Tammy Guetermann,Dead,Human,Female,https://rickandmortyapi.com/api/episode/22
+344,Tammy Guetermann,Dead,Human,Female,https://rickandmortyapi.com/api/episode/41
+345,Teacher Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+346,Terry,unknown,Human,Male,https://rickandmortyapi.com/api/episode/16
+347,President Curtis,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+347,President Curtis,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+347,President Curtis,Alive,Human,Male,https://rickandmortyapi.com/api/episode/43
+347,President Curtis,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+347,President Curtis,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+348,The President of the Miniverse,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/17
+349,The Scientist Formerly Known as Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/10
+350,Thomas Lipkip,unknown,Human,Male,https://rickandmortyapi.com/api/episode/30
+351,Three Unknown Things,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/8
+352,Tinkles,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/15
+353,Tiny Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/18
+354,Toby Matthews,Alive,Human,Male,https://rickandmortyapi.com/api/episode/18
+355,Todd Crystal,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/14
+356,Tom Randolph,Alive,Human,Male,https://rickandmortyapi.com/api/episode/3
+357,Tommy's Clone,Alive,Human,Male,https://rickandmortyapi.com/api/episode/30
+358,Tophat Jones,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/8
+358,Tophat Jones,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+358,Tophat Jones,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/21
+359,Tortured Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+360,Toxic Morty,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/27
+361,Toxic Rick,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/27
+362,Traflorkian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/11
+362,Traflorkian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/13
+362,Traflorkian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+362,Traflorkian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+362,Traflorkian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/25
+363,Trandor,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/30
+364,Tree Person,Dead,Humanoid,unknown,https://rickandmortyapi.com/api/episode/17
+365,Tricia Lange,Alive,Human,Female,https://rickandmortyapi.com/api/episode/26
+365,Tricia Lange,Alive,Human,Female,https://rickandmortyapi.com/api/episode/27
+365,Tricia Lange,Alive,Human,Female,https://rickandmortyapi.com/api/episode/36
+365,Tricia Lange,Alive,Human,Female,https://rickandmortyapi.com/api/episode/38
+365,Tricia Lange,Alive,Human,Female,https://rickandmortyapi.com/api/episode/46
+366,Trunk Morty,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/28
+367,Trunk Man,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/8
+367,Trunk Man,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/28
+368,Truth Tortoise,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/29
+369,Tusked Assassin,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/26
+370,Two Guys with Handlebar Mustaches,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+371,Tumblorkian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+372,Unity,Alive,Alien,Genderless,https://rickandmortyapi.com/api/episode/14
+373,Unmuscular Michael,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+374,Vampire Master,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+375,Vance Maximus,Dead,Human,Male,https://rickandmortyapi.com/api/episode/25
+376,Veronica Ann Bennet,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/7
+377,Voltematron,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/29
+378,Wall Crawling Rick,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/22
+379,Wedding Bartender,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/21
+380,Unknown Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+380,Unknown Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+381,Woman Rick,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/10
+382,Worldender,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/25
+383,Yaarb,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+384,Yellow Headed Doctor,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+385,Yellow Shirt Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+386,Zarbadar Gloonch,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/13
+386,Zarbadar Gloonch,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/18
+387,Zarbadar's Mytholog,unknown,Mythological Creature,Female,https://rickandmortyapi.com/api/episode/18
+388,Zeep Xanflorp,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/17
+389,Zeta Alpha Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/10
+389,Zeta Alpha Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/11
+389,Zeta Alpha Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+389,Zeta Alpha Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+390,Zick Zack,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/29
+391,Uncle Steve,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/15
+392,Bearded Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+392,Bearded Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/51
+393,Roy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+394,Davin,Dead,Cronenberg,Male,https://rickandmortyapi.com/api/episode/1
+394,Davin,Dead,Cronenberg,Male,https://rickandmortyapi.com/api/episode/6
+395,Greebybobe,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/1
+395,Greebybobe,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/11
+395,Greebybobe,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/16
+395,Greebybobe,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/25
+396,Scary Teacher,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/2
+397,Fido,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/2
+398,Accountant dog,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/2
+399,Tiny-persons advocacy group lawyer,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/5
+400,Giant Judge,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/5
+401,Morty Jr's interviewer,Alive,Human,Male,https://rickandmortyapi.com/api/episode/7
+402,Guy from The Bachelor,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+403,Corn detective,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/8
+404,Michael Jackson,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/8
+405,Trunkphobic suspenders guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/2
+405,Trunkphobic suspenders guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+405,Trunkphobic suspenders guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/10
+405,Trunkphobic suspenders guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/11
+406,Spiderweb teddy bear,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/8
+407,Regular Tyrion Lannister,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+408,Quick Mystery Presenter,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+409,Mr. Sneezy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+410,Two Brothers,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+411,Alien Mexican Armada,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/8
+412,Giant Cat Monster,unknown,Animal,unknown,https://rickandmortyapi.com/api/episode/8
+413,Old Women,unknown,Human,Female,https://rickandmortyapi.com/api/episode/8
+414,Trunkphobic guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+415,Pro trunk people marriage guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+416,Muscular Mannie,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+417,Baby Legs Chief,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+418,Mrs. Sullivan's Boyfriend,Alive,Human,Male,https://rickandmortyapi.com/api/episode/8
+419,Plutonian Hostess,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/9
+420,Plutonian Host,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/9
+421,Rich Plutonian,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/9
+422,Rich Plutonian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/9
+423,Synthetic Laser Eels,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/11
+424,Pizza-person,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+425,Pizza-person,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+426,Greasy Grandma,Alive,Human,Female,https://rickandmortyapi.com/api/episode/10
+427,Phone-person,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+428,Phone-person,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+429,Chair-person,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+430,Chair-person,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+431,Chair-homeless,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+432,Chair-waiter,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/10
+433,Doopidoo,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/10
+434,Super Weird Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/10
+435,Pripudlian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/1
+435,Pripudlian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/11
+435,Pripudlian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+435,Pripudlian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/25
+436,Giant Testicle Monster,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/11
+436,Giant Testicle Monster,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/13
+437,Michael,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+438,Michael's Lawyer,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+439,Veterinary,Alive,Human,Female,https://rickandmortyapi.com/api/episode/12
+440,Veterinary Nurse,Alive,Human,Male,https://rickandmortyapi.com/api/episode/12
+441,Bearded Jerry,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+442,Shaved Head Jerry,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+443,Tank Top Jerry,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+444,Pink Polo Shirt Jerry,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+445,Jerryboree Keeper,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/13
+446,Jerryboree Receptionist,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/13
+447,Anchor Gear,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/13
+448,Gear Cop,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/13
+449,Roy's Mum,Alive,Human,Female,https://rickandmortyapi.com/api/episode/13
+450,Roy's Wife,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+451,Roy's Son,Alive,Human,Male,https://rickandmortyapi.com/api/episode/13
+452,Simon,Alive,Human,Male,https://rickandmortyapi.com/api/episode/16
+453,Vampire Master's Assistant,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/18
+454,Arbolian Mentirososian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/16
+454,Arbolian Mentirososian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/19
+454,Arbolian Mentirososian,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/21
+455,St. Gloopy Noops Nurse,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/19
+456,Nano Doctor,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+457,Funny Songs Presenter,Alive,Human,Male,https://rickandmortyapi.com/api/episode/19
+458,Tax Attorney,unknown,Human,Male,https://rickandmortyapi.com/api/episode/19
+459,Butthole Ice Cream Guy,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+460,Traflorkian Journalist,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/19
+461,Communication's Responsible Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+462,Teleportation's Responsible Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/22
+463,SEAL Team Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+464,SEAL Team Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+465,SEAL Team Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+466,SEAL Team Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/22
+467,Morphizer-XE Customer Support,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/26
+468,Morphizer-XE Customer Support,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/26
+469,Morphizer-XE Customer Support,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/26
+470,Alien Spa Employee,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/27
+471,Little Voltron,Alive,Robot,Genderless,https://rickandmortyapi.com/api/episode/27
+472,Baby Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+473,Bartender Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+474,Dancer Cowboy Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+475,Dancer Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+476,Flower Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+477,Hairdresser Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+478,Journalist Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+479,Private Sector Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+480,Purple Morty,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/28
+481,Retired General Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/28
+482,Secret Service Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+483,Steve Jobs Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+484,Sheik Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+485,Modern Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/28
+486,Tan Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+487,Visor Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+488,Colonial Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+489,P-Coat Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/28
+490,Chang,Alive,Human,Male,https://rickandmortyapi.com/api/episode/29
+491,Dr. Eleanor Arroway,Alive,Human,Female,https://rickandmortyapi.com/api/episode/29
+492,Varrix,Alive,Alien,unknown,https://rickandmortyapi.com/api/episode/30
+493,Secretary of the Interior,Alive,Human,Male,https://rickandmortyapi.com/api/episode/31
+494,Crystal Poacher,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/32
+495,Crystal Poacher,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/32
+496,Crystal Poacher,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/32
+497,Hologram Rick,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/32
+498,Fascist Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/32
+499,Fascist Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/32
+500,Fascist Mr. President,Alive,Human,Male,https://rickandmortyapi.com/api/episode/32
+501,Fascist Rick’s Clone,Dead,Human,Male,https://rickandmortyapi.com/api/episode/32
+502,Revolio Clockberg Jr.,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/32
+503,Fascist Shrimp Rick,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+504,Fascist Shrimp Rick’s Clone,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/32
+505,Fascist Shrimp Morty,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+506,Fascist Shrimp SS,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+507,Fascist Teddy Bear Rick,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+508,Fascist Teddy Bear Rick’s Clone,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/32
+509,Bully,unknown,Human,Male,https://rickandmortyapi.com/api/episode/32
+510,Anchorman,Alive,Human,Male,https://rickandmortyapi.com/api/episode/32
+511,Anchorwoman,Alive,Human,Female,https://rickandmortyapi.com/api/episode/32
+512,Morty’s Lawyer,Alive,Human,Male,https://rickandmortyapi.com/api/episode/32
+513,Judge,Dead,Human,Female,https://rickandmortyapi.com/api/episode/32
+514,Public Opinion Judge,Alive,Human,Female,https://rickandmortyapi.com/api/episode/32
+515,Caterpillar Mr. Goldenfold,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/32
+516,Wasp Rick,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+517,Wasp Rick’s Clone,unknown,Animal,Male,https://rickandmortyapi.com/api/episode/32
+518,Wasp Morty,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+519,Wasp Summer,Alive,Animal,Female,https://rickandmortyapi.com/api/episode/32
+520,Wasp Jerry,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/32
+521,Wasp Beth,Alive,Animal,Female,https://rickandmortyapi.com/api/episode/32
+522,Caterpillar Mr. Goldenfold’s Larvae,Dead,Animal,unknown,https://rickandmortyapi.com/api/episode/32
+523,Boglin,unknown,unknown,unknown,https://rickandmortyapi.com/api/episode/32
+524,Kirkland Brand Mr. Meeseeks,unknown,Humanoid,Male,https://rickandmortyapi.com/api/episode/32
+525,Glootie,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/33
+526,Danny Publitz,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+527,Mothership Intern,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/33
+528,Monogatron Leader,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/33
+529,Lizard,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/33
+530,Deliverance,Dead,Robot,Genderless,https://rickandmortyapi.com/api/episode/33
+531,Tony,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/33
+532,Tony’s Wife,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/33
+533,Monogatron Queen,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/33
+534,Tony's Dad,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/33
+535,Jeff,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+536,Josiah,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+537,Maggie,Alive,Human,Female,https://rickandmortyapi.com/api/episode/33
+538,Priest Witherspoon,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+539,Richard,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+540,Running Bird,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+541,Secretary at Tony's,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/33
+542,Mountain Sweat Jerry,Alive,Human,Male,https://rickandmortyapi.com/api/episode/33
+543,Vermigurber,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/33
+544,Miles Knightly,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/34
+545,Heist-Con Receptionist,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/34
+546,Angie Flint,Alive,Human,Female,https://rickandmortyapi.com/api/episode/34
+547,Glar,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/34
+548,Truckula,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/34
+549,Snake Arms,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/34
+550,Double Microwawe,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/34
+551,Monitor Lord,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/34
+552,Key Catcher,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/34
+553,The Shapeshiftress,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/34
+554,Heistotron,Dead,Robot,Genderless,https://rickandmortyapi.com/api/episode/34
+555,Randotron,Dead,Robot,Genderless,https://rickandmortyapi.com/api/episode/34
+556,Hephaestus,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/34
+557,Ventriloquiver,Alive,Humanoid,Female,https://rickandmortyapi.com/api/episode/34
+558,Elon Tusk,Alive,Human,Male,https://rickandmortyapi.com/api/episode/34
+559,Gramuflackian Anchorman,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/34
+560,Gramuflackian General,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/34
+561,Netflix Executive,Alive,Human,Male,https://rickandmortyapi.com/api/episode/34
+562,Balthromaw,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/35
+563,The Wizard,Dead,Human,Male,https://rickandmortyapi.com/api/episode/35
+564,Talking Cat,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/35
+565,Debrah,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/35
+566,Debrah’s Partner,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/35
+567,Michael,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/35
+568,Slut Dragon,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/35
+569,Shadow Jacker,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/35
+570,Chachi,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/35
+571,Slippy,Alive,Animal,Female,https://rickandmortyapi.com/api/episode/36
+572,Robot Snake,unknown,Robot,Genderless,https://rickandmortyapi.com/api/episode/36
+573,Snake Hitler,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/36
+574,Snake Lincoln,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/36
+575,Snake Resistance Robot,Dead,Robot,Genderless,https://rickandmortyapi.com/api/episode/36
+576,Snake Linguist,unknown,Animal,Male,https://rickandmortyapi.com/api/episode/36
+577,Snake Terminator,unknown,Robot,Male,https://rickandmortyapi.com/api/episode/36
+578,Snake Soldier,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/36
+579,Snake with Legs,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/36
+580,Secret Service Snake,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/36
+581,Anchosnake,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/36
+582,Anchosnake,Alive,Animal,Female,https://rickandmortyapi.com/api/episode/36
+583,80's snake,unknown,Animal,Male,https://rickandmortyapi.com/api/episode/36
+584,Bar Customer,Alive,Human,Male,https://rickandmortyapi.com/api/episode/36
+585,Bartender,Alive,Human,Female,https://rickandmortyapi.com/api/episode/36
+586,PC Basketball Player,Alive,Human,Male,https://rickandmortyapi.com/api/episode/36
+587,Cavesnake,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/36
+588,Pet Shop Employee,Alive,Human,Male,https://rickandmortyapi.com/api/episode/36
+589,Snake Reporter,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/36
+590,High Pilot,unknown,Human,Male,https://rickandmortyapi.com/api/episode/36
+591,High Pilot,unknown,Human,Male,https://rickandmortyapi.com/api/episode/36
+592,Phoenixperson,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/22
+592,Phoenixperson,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/41
+592,Phoenixperson,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/49
+593,Tickets Please Guy,Dead,Human,Male,https://rickandmortyapi.com/api/episode/37
+594,Floaty Bloody Man,Dead,Human,Male,https://rickandmortyapi.com/api/episode/37
+595,Floaty Non-Gasm Brotherhood Member,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/37
+596,Floaty Non-Gasm Brotherhood Member Friend,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/37
+597,Abradolf Lincler,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+598,Biblesaurus,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/37
+599,Birdperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+600,Cats Fan,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/37
+601,Christmas Storyteller,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+602,Cookies Guy,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+603,Crossy,Alive,unknown,Genderless,https://rickandmortyapi.com/api/episode/37
+604,Female Scorpion,Dead,Animal,Female,https://rickandmortyapi.com/api/episode/37
+605,Floaty Bloody Man’s Daughter,Dead,Human,Female,https://rickandmortyapi.com/api/episode/37
+606,Goomby,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+607,Hairspray Fan,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/37
+608,Jesus Christ,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+609,Josh,Dead,Human,Male,https://rickandmortyapi.com/api/episode/37
+610,Josh's Sister,Dead,Human,Female,https://rickandmortyapi.com/api/episode/37
+611,Leah,Alive,unknown,Female,https://rickandmortyapi.com/api/episode/37
+612,Marcus,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+613,Mike Johnson,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+614,Mr. Celery & Friends,Alive,unknown,Genderless,https://rickandmortyapi.com/api/episode/37
+615,Musical Fan,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+616,Phantom of the Opera Fan,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+617,Phoenixperson,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+618,Private Smith,unknown,Human,Male,https://rickandmortyapi.com/api/episode/37
+619,Professor Sanchez,Dead,Human,Male,https://rickandmortyapi.com/api/episode/37
+620,Ramamama Lord,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+621,Ruth Bader Ginsburg,Alive,Human,Female,https://rickandmortyapi.com/api/episode/37
+622,Sarge,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+623,Shrek The Musical Fan,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/37
+624,Snuffles,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/37
+625,Storylord,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+626,Tammy Guetermann,Alive,Human,Female,https://rickandmortyapi.com/api/episode/37
+627,The Concept of Time,Alive,unknown,Genderless,https://rickandmortyapi.com/api/episode/37
+628,Beth Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/37
+629,Summer Smith,Alive,Human,Female,https://rickandmortyapi.com/api/episode/37
+630,Morty Smith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+631,Rick Sanchez,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+632,Train Cop,Dead,Human,Male,https://rickandmortyapi.com/api/episode/37
+633,Train Cops,Alive,Human,Female,https://rickandmortyapi.com/api/episode/37
+634,Train Cops Instructor,Dead,Human,Male,https://rickandmortyapi.com/api/episode/37
+635,Darth Poopybutthole,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/37
+636,Evil Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+637,Morty’s Disguise,Alive,Human,Female,https://rickandmortyapi.com/api/episode/37
+638,Rick’s Disguise,Alive,Human,Male,https://rickandmortyapi.com/api/episode/37
+639,Uncle Nibbles,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/37
+640,Angry Glorzo,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+641,Bruce,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+642,Council of Glorzos Member,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+643,Council of Glorzos Member,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+644,Old Glorzo,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+645,Shane,unknown,Alien,Male,https://rickandmortyapi.com/api/episode/38
+646,Steve,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+647,Troy,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/38
+648,Crystal Dealers Boss,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/39
+649,Crystal Dealer,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/39
+650,Crystal Dealer,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/39
+651,Crystal Dealer,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/39
+652,SWAT Officer,Dead,Human,Male,https://rickandmortyapi.com/api/episode/39
+653,Plane Crash Survivor,unknown,Human,Female,https://rickandmortyapi.com/api/episode/39
+654,Plane Crash Survivor,unknown,Human,Male,https://rickandmortyapi.com/api/episode/39
+655,Heroine Keith,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+656,Impervious to Acid SWAT Officer,Dead,Human,Male,https://rickandmortyapi.com/api/episode/39
+657,Johnny Carson,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+658,Sonia Sotomayor,Alive,Human,Female,https://rickandmortyapi.com/api/episode/39
+659,Morty’s Father-in-law,Alive,Human,Male,https://rickandmortyapi.com/api/episode/39
+660,Morty’s Mother-in-law,Alive,Human,Female,https://rickandmortyapi.com/api/episode/39
+661,Morty’s Girlfriend,Alive,Human,Female,https://rickandmortyapi.com/api/episode/39
+662,Gaia,Alive,unknown,Female,https://rickandmortyapi.com/api/episode/40
+663,Reggie,Dead,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/40
+664,Ticktock,unknown,Humanoid,Genderless,https://rickandmortyapi.com/api/episode/40
+665,Florflock,Alive,Humanoid,Genderless,https://rickandmortyapi.com/api/episode/40
+666,Squeeb,Alive,Humanoid,Genderless,https://rickandmortyapi.com/api/episode/40
+667,Defiance Beth,Alive,Human,Female,https://rickandmortyapi.com/api/episode/41
+667,Defiance Beth,Alive,Human,Female,https://rickandmortyapi.com/api/episode/43
+668,Defiance Squanchette,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/41
+669,Defiance Doctor,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/41
+670,New Improved Galactic Federation Guard,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/41
+671,New Improved Galactic Federation Guard,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/41
+672,Mr. Nimbus,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/42
+673,Hoovy,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+674,Bova,Dead,Humanoid,Female,https://rickandmortyapi.com/api/episode/42
+675,Japheth,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+676,Japheth's Middle Son,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+677,Japheth's Eldest Son,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+678,Japheth's Youngest Son,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+679,Japheth's Grandson,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+680,Adam,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+681,Adam's Mother,Dead,Humanoid,Female,https://rickandmortyapi.com/api/episode/42
+682,Warlock,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+683,Evolved Narnian,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+684,Mr. Nimbus Secretary,Alive,Animal,Female,https://rickandmortyapi.com/api/episode/42
+685,Evolved Narnian Disguised as Morty,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/42
+686,Mr. Nimbus' Squid,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/42
+687,Scarecrow Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+688,Scarecrow Summer,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+689,Scarecrow Jerry,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+690,Scarecrow Morty,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+691,Scarecrow Beth,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+692,Glockenspiel Jerry,Alive,Robot,Male,https://rickandmortyapi.com/api/episode/43
+693,Glockenspiel Beth,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+694,Glockenspiel Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+695,Glockenspiel Summer,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+696,Glockenspiel Morty,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+697,Wicker Beth,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+698,Wicker Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+699,Wicker Morty,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+700,Wicker Summer,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+701,Metal Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+702,Gun Brain Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+703,Mr. Always Wants to be Hunted,Alive,Poopybutthole,Male,https://rickandmortyapi.com/api/episode/43
+704,Squid Costume Beth,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+705,Squid Costume Jerry,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+706,Squid Costume Morty,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+707,Squid Costume Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+708,Squid Costume Summer,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+709,Dracula,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/43
+710,Steve,Alive,Human,Male,https://rickandmortyapi.com/api/episode/43
+711,When Wolf,Alive,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/43
+712,Too Cute to Murder Beth,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+713,Too Cute to Murder Rick,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+714,Too Cute to Murder Jerry,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+715,Too Cute to Murder Morty,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/43
+716,Too Cute to Murder Summer,Dead,Robot,Female,https://rickandmortyapi.com/api/episode/43
+717,Planetina,Alive,Humanoid,Female,https://rickandmortyapi.com/api/episode/44
+718,Daphne,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/44
+719,Diesel Weasel,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/44
+720,Eddie,Dead,Human,Male,https://rickandmortyapi.com/api/episode/44
+721,Xing Ho,Dead,Human,Female,https://rickandmortyapi.com/api/episode/44
+722,Air Tina-Teer,Dead,Human,Female,https://rickandmortyapi.com/api/episode/44
+723,Water Tina-Teer,Dead,Human,Male,https://rickandmortyapi.com/api/episode/44
+724,Planetina Buyer,Dead,Human,Male,https://rickandmortyapi.com/api/episode/44
+725,Tony Galopagus,Alive,Human,Male,https://rickandmortyapi.com/api/episode/44
+726,Sticky,Alive,unknown,Male,https://rickandmortyapi.com/api/episode/45
+727,Professor Shabooboo,Dead,Human,Male,https://rickandmortyapi.com/api/episode/45
+728,Sperm Queen,Dead,unknown,Female,https://rickandmortyapi.com/api/episode/45
+729,CHUD King,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/45
+730,Princess Ponietta,Alive,Animal,Female,https://rickandmortyapi.com/api/episode/45
+731,Naruto Smith,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/45
+731,Naruto Smith,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/48
+732,Blazen,Dead,Human,Male,https://rickandmortyapi.com/api/episode/45
+733,Kathy Ireland,Alive,Human,Female,https://rickandmortyapi.com/api/episode/45
+734,Amazing Johnathan,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+735,Foal Sanchez,Alive,Humanoid,unknown,https://rickandmortyapi.com/api/episode/45
+736,Spaceman,Dead,Human,Male,https://rickandmortyapi.com/api/episode/45
+737,Cirque du Soleil Zumanity Member,Alive,Human,Female,https://rickandmortyapi.com/api/episode/45
+738,Cirque du Soleil Zumanity Member,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+739,Cirque du Soleil Zumanity Member,Alive,Human,Female,https://rickandmortyapi.com/api/episode/45
+740,Cirque du Soleil Zumanity Member,Dead,Human,Female,https://rickandmortyapi.com/api/episode/45
+741,Cirque du Soleil Zumanity Member,Alive,Human,Female,https://rickandmortyapi.com/api/episode/45
+742,Bruce Chutback,Alive,Human,Male,https://rickandmortyapi.com/api/episode/46
+743,Alyson Hannigan,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/46
+744,Cenobite,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/46
+745,Cenobite,unknown,Mythological Creature,Female,https://rickandmortyapi.com/api/episode/46
+746,Cenobite,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/46
+747,Cenobite,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/46
+748,Cenobite,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/46
+749,Coat Rack Head,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/46
+750,Mousetrap Nipples,unknown,Mythological Creature,Male,https://rickandmortyapi.com/api/episode/46
+751,Changeformer,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/46
+752,Changeformer,Dead,Robot,Male,https://rickandmortyapi.com/api/episode/46
+753,Space Cruiser,Alive,Robot,Female,https://rickandmortyapi.com/api/episode/17
+753,Space Cruiser,Alive,Robot,Female,https://rickandmortyapi.com/api/episode/47
+754,Coop,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+755,Dwayne,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+756,Franklin D. Roosevelt,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/47
+757,President's General,Alive,Human,Male,https://rickandmortyapi.com/api/episode/45
+757,President's General,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+758,Giant Assassin Hidden in the Statue of Liberty,Alive,Robot,Female,https://rickandmortyapi.com/api/episode/47
+759,Turkey Morty,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/47
+760,Turkey Rick,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/47
+761,Turkey President Curtis,Alive,Animal,Male,https://rickandmortyapi.com/api/episode/47
+762,Martínez,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/47
+763,Marvin,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+764,Jackey,Alive,Human,Male,https://rickandmortyapi.com/api/episode/47
+765,Native Alien,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/47
+766,Pilgrim Alien,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/47
+767,President Turkey,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/47
+768,Mary-Lou,Alive,Human,Female,https://rickandmortyapi.com/api/episode/47
+769,Big Fat rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/48
+770,Hothead Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/48
+771,Ricardo Montoya,unknown,Human,Male,https://rickandmortyapi.com/api/episode/48
+772,Wrap-it-up Little Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/48
+773,Yo-yo Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/48
+774,Voiceoverian,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/48
+775,Voiceoverian,Dead,Alien,unknown,https://rickandmortyapi.com/api/episode/48
+776,Gotron Pilot,Dead,Human,Male,https://rickandmortyapi.com/api/episode/48
+777,Gotron Pilot,Dead,Human,Male,https://rickandmortyapi.com/api/episode/48
+778,Gotron Pilot,Dead,Human,Male,https://rickandmortyapi.com/api/episode/48
+779,Young Memory Rick,Alive,Human,Male,https://rickandmortyapi.com/api/episode/49
+780,Memory Tammy,Dead,Human,Female,https://rickandmortyapi.com/api/episode/49
+781,Rick's Garage,Alive,Robot,Female,https://rickandmortyapi.com/api/episode/49
+782,Memory Squanchy,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/49
+783,Memory Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/49
+784,Memory Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/49
+785,Memory Geardude,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/49
+786,Birdperson & Tammy's Child,Alive,Humanoid,Female,https://rickandmortyapi.com/api/episode/49
+787,Two Crows,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/50
+787,Two Crows,Alive,Animal,unknown,https://rickandmortyapi.com/api/episode/51
+788,Mr. Cookie President,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/50
+789,Nick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/50
+790,Harold (Garbage Goober),Alive,Alien,Male,https://rickandmortyapi.com/api/episode/50
+791,Harold's Wife,Alive,Alien,Female,https://rickandmortyapi.com/api/episode/50
+792,Alien Crow,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/50
+793,Alien Crow,Dead,Alien,Female,https://rickandmortyapi.com/api/episode/50
+794,Samansky,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/48
+795,Palicki,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/48
+796,Sarge,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/48
+797,Slartivartian,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/44
+798,Ferkusian,Alive,Alien,Male,https://rickandmortyapi.com/api/episode/44
+799,Morglutzian,Dead,Alien,Male,https://rickandmortyapi.com/api/episode/44
+800,Super Turkey,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/47
+801,7+7 Years Old Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+802,26 Years Old Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+803,40 Years Old Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+804,Andy,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+805,Baby Mouse Skin Morty,Alive,Human,Male,https://rickandmortyapi.com/api/episode/51
+806,Metaphor for Capitalism,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/51
+807,Beth Sanchez,Dead,Human,Female,https://rickandmortyapi.com/api/episode/51
+808,Crow Scare,Alive,Humanoid,Male,https://rickandmortyapi.com/api/episode/51
+809,Pussifer,Dead,Animal,Male,https://rickandmortyapi.com/api/episode/51
+810,Stan Lee Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+811,Re-Build-a-Morty Morty,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+812,Deformed Morty,Dead,Humanoid,Male,https://rickandmortyapi.com/api/episode/51
+813,Crow Horse,Alive,Robot,unknown,https://rickandmortyapi.com/api/episode/51
+814,Bald Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+815,Punk Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+816,Party Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+817,Scar Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+818,Long Hair Rick,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+819,Redhead Rick,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+820,Redhead Morty,Dead,Human,Male,https://rickandmortyapi.com/api/episode/51
+821,Gotron,unknown,Robot,Genderless,https://rickandmortyapi.com/api/episode/48
+822,Young Jerry,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+823,Young Beth,unknown,Human,Female,https://rickandmortyapi.com/api/episode/51
+824,Young Beth,unknown,Human,Female,https://rickandmortyapi.com/api/episode/51
+825,Young Jerry,unknown,Human,Male,https://rickandmortyapi.com/api/episode/51
+826,Butter Robot,Alive,Robot,Genderless,https://rickandmortyapi.com/api/episode/9
