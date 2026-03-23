@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Práctica AJAX</title>
+</head>
+<body>
+
+<button id="btnSaludar">Saludar</button>
+<div id="mensaje"></div>
+
+<script>
+document.getElementById("btnSaludar").addEventListener("click", function () {
+
+    const xhr = new XMLHttpRequest();
+
+    xhr.open("GET", "saludo.txt", true);
+
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            document.getElementById("mensaje").textContent = xhr.responseText;
+        }
+    };
+
+    xhr.send();
+});
+</script>
+
+</body>
+</html>
