@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <title>Productes</title>
+</head>
+<body>
+
+  <button id="btnCarregar">Mostrar Productes</button>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nom</th>
+        <th>Preu</th>
+      </tr>
+    </thead>
+    <tbody id="cosTaula">
+    </tbody>
+  </table>
+
+  <script>
+    document.getElementById('btnCarregar').addEventListener('click', function() {
+      fetch('productes.json')
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(productes) {
+          var cosTaula = document.getElementById('cosTaula');
+          cosTaula.innerHTML = '';
+
+          productes.forEach(function(p) {
+            var fila = document.createElement('tr');
+            fila.innerHTML = '<td>' + p.id + '</td>' +
+                             '<td>' + p.nom + '</td>' +
+                             '<td>' + p.preu + '</td>';
+            cosTaula.appendChild(fila);
+          });
+        });
+    });
+  </script>
+
+</body>
+</html>
