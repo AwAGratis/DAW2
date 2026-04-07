@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nom": "Ana",
+    "cognoms": "García López",
+    "edat": 20,
+    "nota": 8.5
+  },
+  {
+    "id": 2,
+    "nom": "Carlos",
+    "cognoms": "Martínez Ruiz",
+    "edat": 21,
+    "nota": 7.2
+  },
+  {
+    "id": 3,
+    "nom": "María",
+    "cognoms": "Fernández Pérez",
+    "edat": 19,
+    "nota": 9.1
+  },
+  {
+    "id": 4,
+    "nom": "David",
+    "cognoms": "Sánchez Gómez",
+    "edat": 22,
+    "nota": 6.8
+  },
+  {
+    "id": 5,
+    "nom": "Laura",
+    "cognoms": "Jiménez Torres",
+    "edat": 20,
+    "nota": 8.9
+  },
+  {
+    "id": 6,
+    "nom": "Javier",
+    "cognoms": "Moreno Díaz",
+    "edat": 21,
+    "nota": 7.5
+  },
+  {
+    "id": 7,
+    "nom": "Isabel",
+    "cognoms": "Romero Castro",
+    "edat": 19,
+    "nota": 9.3
+  },
+  {
+    "id": 8,
+    "nom": "Miguel",
+    "cognoms": "Alvarez Vega",
+    "edat": 22,
+    "nota": 6.5
+  },
+  {
+    "id": 9,
+    "nom": "Carmen",
+    "cognoms": "Herrera Muñoz",
+    "edat": 20,
+    "nota": 8.2
+  },
+  {
+    "id": 10,
+    "nom": "Pablo",
+    "cognoms": "Delgado Ortega",
+    "edat": 21,
+    "nota": 7.8
+  },
+  {
+    "id": 11,
+    "nom": "Elena",
+    "cognoms": "Ramos Navarro",
+    "edat": 19,
+    "nota": 9.0
+  },
+  {
+    "id": 12,
+    "nom": "Sergio",
+    "cognoms": "Gil Morales",
+    "edat": 22,
+    "nota": 7.0
+  },
+  {
+    "id": 13,
+    "nom": "Patricia",
+    "cognoms": "Vázquez Rubio",
+    "edat": 20,
+    "nota": 8.7
+  },
+  {
+    "id": 14,
+    "nom": "Adrián",
+    "cognoms": "Serrano Medina",
+    "edat": 21,
+    "nota": 6.9
+  },
+  {
+    "id": 15,
+    "nom": "Cristina",
+    "cognoms": "Blanco Guerrero",
+    "edat": 19,
+    "nota": 9.2
+  },
+  {
+    "id": 16,
+    "nom": "Roberto",
+    "cognoms": "Molina Cortés",
+    "edat": 22,
+    "nota": 7.3
+  },
+  {
+    "id": 17,
+    "nom": "Silvia",
+    "cognoms": "Castro León",
+    "edat": 20,
+    "nota": 8.4
+  },
+  {
+    "id": 18,
+    "nom": "Diego",
+    "cognoms": "Ortega Peña",
+    "edat": 21,
+    "nota": 7.6
+  },
+  {
+    "id": 19,
+    "nom": "Raquel",
+    "cognoms": "Flores Aguilar",
+    "edat": 19,
+    "nota": 8.8
+  },
+  {
+    "id": 20,
+    "nom": "Álvaro",
+    "cognoms": "Reyes Santana",
+    "edat": 22,
+    "nota": 6.7
+  }
+]

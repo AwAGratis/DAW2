@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nom": "Laptop Dell",
+    "preu": 899.99,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 2,
+    "nom": "Teléfono Samsung",
+    "preu": 699.99,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 3,
+    "nom": "Camisa de algodón",
+    "preu": 29.99,
+    "categoria": "Ropa"
+  },
+  {
+    "id": 4,
+    "nom": "Libro de programación",
+    "preu": 49.99,
+    "categoria": "Libros"
+  },
+  {
+    "id": 5,
+    "nom": "Zapatillas Nike",
+    "preu": 129.99,
+    "categoria": "Deportes"
+  },
+  {
+    "id": 6,
+    "nom": "Cafetera Nespresso",
+    "preu": 199.99,
+    "categoria": "Hogar"
+  },
+  {
+    "id": 7,
+    "nom": "Auriculares Sony",
+    "preu": 149.99,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 8,
+    "nom": "Pantalones vaqueros",
+    "preu": 59.99,
+    "categoria": "Ropa"
+  },
+  {
+    "id": 9,
+    "nom": "Juego de mesa Monopoly",
+    "preu": 39.99,
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 10,
+    "nom": "Bicicleta de montaña",
+    "preu": 499.99,
+    "categoria": "Deportes"
+  },
+  {
+    "id": 11,
+    "nom": "Sartén antiadherente",
+    "preu": 24.99,
+    "categoria": "Cocina"
+  },
+  {
+    "id": 12,
+    "nom": "Tablet Apple",
+    "preu": 599.99,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 13,
+    "nom": "Vestido de verano",
+    "preu": 79.99,
+    "categoria": "Ropa"
+  },
+  {
+    "id": 14,
+    "nom": "Novela de misterio",
+    "preu": 19.99,
+    "categoria": "Libros"
+  },
+  {
+    "id": 15,
+    "nom": "Pelota de fútbol",
+    "preu": 29.99,
+    "categoria": "Deportes"
+  },
+  {
+    "id": 16,
+    "nom": "Lámpara de escritorio",
+    "preu": 89.99,
+    "categoria": "Hogar"
+  },
+  {
+    "id": 17,
+    "nom": "Ratón inalámbrico",
+    "preu": 39.99,
+    "categoria": "Electrónica"
+  },
+  {
+    "id": 18,
+    "nom": "Chaqueta de cuero",
+    "preu": 199.99,
+    "categoria": "Ropa"
+  },
+  {
+    "id": 19,
+    "nom": "Puzzle 1000 piezas",
+    "preu": 24.99,
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 20,
+    "nom": "Botella de agua térmica",
+    "preu": 34.99,
+    "categoria": "Deportes"
+  }
+]
