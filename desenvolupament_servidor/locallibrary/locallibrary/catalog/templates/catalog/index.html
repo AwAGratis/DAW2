@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Library</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .stat-card { display: inline-block; padding: 15px; margin: 10px; border: 1px solid #ccc; }
+        .stat-number { font-size: 1.8em; font-weight: bold; }
+        .btn { padding: 8px 15px; margin: 10px 5px; background: #ccc; color: black; border: none; cursor: pointer; text-decoration: none; display: inline-block; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <h1>Local Library</h1>
+    
+    <div>
+        <div class="stat-card">
+            <div class="stat-number">{{ num_books }}</div>
+            <div>Llibres</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">{{ num_authors }}</div>
+            <div>Autors</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">{{ num_instances }}</div>
+            <div>Còpies</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">{{ num_available }}</div>
+            <div>Disponibles</div>
+        </div>
+    </div>
+    
+    <div style="margin-top: 20px;">
+        <a href="/admin/" class="btn">Panel Admin</a>
+    </div>
+    
+    {% if top_books %}
+    <div style="margin-top: 20px;">
+        <h2>Últims Llibres</h2>
+        {% for book in top_books %}
+        <p><strong>{{ book.title }}</strong> - {{ book.author }}</p>
+        {% endfor %}
+    </div>
+    {% endif %}
+</body>
+</html>
